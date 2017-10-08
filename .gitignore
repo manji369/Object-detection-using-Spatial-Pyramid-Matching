@@ -1,0 +1,6 @@
+**/Data
+*.pdf
+svmTrainandTest
+SIFT/SIFT
+ORB/ORB
+*.yml
